@@ -1,0 +1,9 @@
+id,nome,populacao,nivel_risco,eh_abrigo,coord_x,coord_y
+hub_principal,"Centro de Comando (Hub Principal)",50000,2,True,0.0,0.0
+vale_baixo,"Vale Baixo (Zona de Risco Alto - Enchentes)",120000,9,False,2.5,-1.8
+serra_alta,"Serra Alta (Risco de Deslizamentos)",45000,8,False,0.8,2.8
+rio_medio,"Rio Médio (Área Baixa)",85000,8,False,-1.8,-1.5
+cidade_nova,"Cidade Nova (Expansão Urbana)",95000,5,False,3.8,0.5
+bairro_industrial,"Bairro Industrial",32000,6,False,-2.8,1.2
+zona_rural,"Zona Rural Norte",28000,4,False,-1.5,3.2
+porto_seguro,"Porto Seguro (Abrigo Secundário)",38000,3,True,5.2,-2.5

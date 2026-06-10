@@ -1,0 +1,17 @@
+from_id,to_id,distancia_km,tempo_min
+hub_principal,vale_baixo,18,25
+hub_principal,serra_alta,22,30
+hub_principal,rio_medio,15,20
+hub_principal,cidade_nova,28,35
+hub_principal,bairro_industrial,20,28
+vale_baixo,rio_medio,12,18
+vale_baixo,cidade_nova,25,32
+serra_alta,zona_rural,9,14
+serra_alta,bairro_industrial,15,22
+rio_medio,bairro_industrial,10,15
+cidade_nova,porto_seguro,22,28
+bairro_industrial,zona_rural,18,25
+vale_baixo,serra_alta,30,40
+rio_medio,serra_alta,35,45
+cidade_nova,vale_baixo,25,32
+porto_seguro,hub_principal,35,42
