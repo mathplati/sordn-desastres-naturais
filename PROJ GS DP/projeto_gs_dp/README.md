@@ -120,20 +120,6 @@ O programa carrega automaticamente os dados de `data/` e abre um menu interativo
 7. Listar zonas e abrigos
 0. Sair
 
-### Exemplo de uso para o vídeo:
-- Opção 1 → escolher origem e abrigo → mostrar rota + gráfico
-- Opção 5 → mostrar que DP > Guloso em alguns casos
-- Opção 4 → mostrar análise de risco com arestas críticas
-
-## 👥 Integrantes do Grupo
-
-> **Substitua pelos nomes completos dos integrantes do grupo antes de entregar**
-
-- Integrante 1: [Seu Nome Completo] — [RA]
-- Integrante 2: [Nome Completo] — [RA]
-- Integrante 3: [Nome Completo] — [RA] (se houver)
-
----
 
 **Observação importante:** Este projeto foi desenvolvido seguindo rigorosamente todos os requisitos obrigatórios da disciplina:
 - ✅ Grafos com aplicação prática (rotas + conectividade)
