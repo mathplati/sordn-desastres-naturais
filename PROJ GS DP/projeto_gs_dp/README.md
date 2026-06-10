@@ -146,5 +146,3 @@ O programa carrega automaticamente os dados de `data/` e abre um menu interativo
 - ✅ Tratamento de erros (try/except)
 - ✅ Logs e mensagens claras de execução
 - ✅ Comparação de desempenho/qualidade entre abordagens (Guloso vs DP)
-
-O código está pronto para ser executado, filmado e enviado ao repositório GitHub.
